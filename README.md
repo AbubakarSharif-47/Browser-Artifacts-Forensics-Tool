@@ -3,7 +3,7 @@
 This tool is designed for digital forensics investigations of privacy-focused browsers such as **Brave** and **Tor**. It extracts and analyzes browser artifacts, including browsing history, stored passwords, cache files, bookmarks, extensions, downloads, and installation details from the Windows registry.
 
 ⚠️ Disclaimer
-This tool is intended for educational and authorized security assessment purposes only. You must have explicit permission to scan any network or system. The authors are not responsible for any misuse or damage caused by this tool.
+This tool is intended for educational and authorized security assessment purposes only. You must have explicit permission to run on the system. The authors are not responsible for any misuse or damage caused by this tool.
 ## **Purpose**
 
 The purpose of this tool is to assist forensic investigators in retrieving sensitive data from these browsers, which may be important for various investigations, such as privacy-related cases or user activity tracking.
