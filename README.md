@@ -181,3 +181,5 @@ If the tool fails to decrypt stored passwords, it's likely due to the browser's 
 * **Data Integrity**:  
   The tool is designed to be non-intrusive, meaning it doesn’t alter the data it extracts. However, always ensure you are working with copies of the data (for example, cloned disks or disk images) to avoid tampering with evidence.
 
+## **Contribution**
+Javeriah Faheem, Sabreena Azhar, Abubakar Sharif, Umar Zeb
